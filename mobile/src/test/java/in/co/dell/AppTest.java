@@ -1,4 +1,4 @@
-package in.co.sms;
+package in.co.dell;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
